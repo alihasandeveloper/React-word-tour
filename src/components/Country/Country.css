@@ -1,0 +1,11 @@
+.country {
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+    border: 2px solid skyblue;
+}
+
+.visited {
+    background-color: lime;
+    color: #1a1a1a;
+}
